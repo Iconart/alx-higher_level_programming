@@ -7,4 +7,4 @@ def uppercase(str):
             last += chr(letter)
         else:
             last += i
-    return(last)
+    print("{}".format(last))
