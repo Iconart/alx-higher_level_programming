@@ -1,6 +1,7 @@
 # Python - Import & Modules
 ## Tasks
 
+***
 [x] Import a simple function from a simple file
 [x] My first toolbox!
 [x] How to make a script dynamic!
