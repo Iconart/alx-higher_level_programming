@@ -7,4 +7,3 @@
 - [] Divide a list
 - [] Raise exception
 - [] Raise a message
-
