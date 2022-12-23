@@ -2,11 +2,14 @@
 """square module - return the square of 
 size to produce Area"""
 
+
 class Square:
     """Define a square"""
 
+
     def __init__(self, size=0):
         """the value of size should be integer"""
+
 
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
