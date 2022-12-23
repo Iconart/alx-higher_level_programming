@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Square module - initialize size and check
-for some conditions"""
+"""Square module - checking"""
 class Square:
     """Define square"""
 
