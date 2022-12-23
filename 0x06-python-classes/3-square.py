@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""square module - return the square of 
-size to produce Area"""
+"""square module"""
 
 
 class Square:
