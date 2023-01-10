@@ -45,5 +45,6 @@ class Rectangle:
         if not self.width or not self.height:
             return ""
         return(("#" * self.width + '\n') * self.height)[:-1]
+    
     def __repr__(self):
         return "Rectangle(" + str(self.width) + "," + str(self.height) + ")"
